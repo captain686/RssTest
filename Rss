@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>CyberSecurityRSS</title>
+</head>
+<body>
+<outline title="Crypto" text="Crypto">
+<outline xmlUrl="https://community.qualys.com/blogs/securitylabs/feeds/posts" type="rss" htmlUrl="https://blog.qualys.com" text="Vulnerabilities and Threat Research – Qualys Security Blog" title="Vulnerabilities and Threat Research – Qualys Security Blog" />
+</body>
+</opml>
