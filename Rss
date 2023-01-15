@@ -5,9 +5,6 @@
 </head>
 <body>
 <outline title="Dev" text="Dev">
-<outline text="ArthurChiao's Blog" title="ArthurChiao's Blog" xmlUrl="http://arthurchiao.art/feed.xml" htmlUrl="https://arthurchiao.github.io/" type="rss" />
-<outline text="Brightiup Blog" type="rss" title="Brightiup Blog" xmlUrl="https://feed43.com/7741664325142083.xml" htmlUrl="https://feed43.com" />
-<outline text="Hacking Dream" type="rss" title="Hacking Dream" htmlUrl="https://www.hackingdream.net/" xmlUrl="https://www.hackingdream.net/feeds/posts/default?alt=rss" />
 <outline title="SecWiki News" type="rss" xmlUrl="https://www.sec-wiki.com/news/rss" htmlUrl="http://www.sec-wiki.com/" text="SecWiki News" />
   </outline>
 </body>
