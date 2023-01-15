@@ -8,6 +8,7 @@
 <outline text="ArthurChiao's Blog" title="ArthurChiao's Blog" xmlUrl="http://arthurchiao.art/feed.xml" htmlUrl="https://arthurchiao.github.io/" type="rss" />
 <outline text="Brightiup Blog" type="rss" title="Brightiup Blog" xmlUrl="https://feed43.com/7741664325142083.xml" htmlUrl="https://feed43.com" />
 <outline text="Hacking Dream" type="rss" title="Hacking Dream" htmlUrl="https://www.hackingdream.net/" xmlUrl="https://www.hackingdream.net/feeds/posts/default?alt=rss" />
+<outline title="太阳风的专栏" xmlUrl="http://blog.csdn.net/u012528173/rss/list" text="太阳风的专栏" type="rss" htmlUrl="https://blog.csdn.net/u012528173" />
 </outline>
 </body>
 </opml>
